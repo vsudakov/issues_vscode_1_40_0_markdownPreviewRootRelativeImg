@@ -1,4 +1,5 @@
 + Test image should display below in preview
+  + *VSCode 1.40.0 and 1.40.1 will not display the image below on Windows 10 1903*
     + ![](/assets/2019-11-13_16_36_37.png)
 
 + Test image in same folder as md file
